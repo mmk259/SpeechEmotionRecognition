@@ -1,4 +1,5 @@
 # SpeechEmotionRecognition
+_________________________________________________________________________________
 
 # Introduction:
 In this project, you are using the Toronto Emotional Speech Set (TESS) dataset to build a speech emotion recognition system. The TESS dataset contains audio recordings of actors speaking various sentences with different emotions, including anger, disgust, fear, happiness, neutral, and sadness. Your goal is to develop a machine learning model that can accurately predict the emotional state of a person based on their speech.
